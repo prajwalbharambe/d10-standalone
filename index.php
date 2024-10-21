@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello Laravel!";
+echo "PHP env setup successful @D10";
